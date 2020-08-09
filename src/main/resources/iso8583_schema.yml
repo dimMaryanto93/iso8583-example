@@ -1,0 +1,16 @@
+fields:
+  - position: 7
+    title: TransmissionDateTime
+    type: DATE10
+  - position: 11
+    title: Stan
+    type: NUMERIC
+    length: 6
+  - position: 39
+    title: responseCode
+    type: ALPHA
+    length: 2
+  - position: 70
+    title: systemFunctionCode
+    type: NUMERIC
+    length: 3
